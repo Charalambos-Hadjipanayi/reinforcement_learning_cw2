@@ -1,0 +1,5 @@
+The useful codes from these are (14/11/2019):
+-Easy21_v3.m
+-MC_episode.m
+-CW_Easy21_multiple_games
+-Cw_implementation_of_Easy21.m
